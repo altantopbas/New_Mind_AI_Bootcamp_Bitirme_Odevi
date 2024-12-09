@@ -172,7 +172,7 @@ print("Üretilen Yanıt:\n", result)
   
 ## Geri Bildirim
 
-Herhangi bir geri bildiriminiz varsa, aşağıdaki iletişim adreslerime ulaşabilirsiniz
+Herhangi bir geri bildiriminiz varsa, aşağıdaki iletişim adreslerimden bana ulaşabilirsiniz
 
 [E-Mail](altantopbas5@gmail.com)
 
