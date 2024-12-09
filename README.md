@@ -5,7 +5,7 @@
 
 Projemin amacı, ürünlere yapılacak olan yorumların duygu durumunu analiz edip bu duygu durumuna göre LLM üzerinden cevap üretmektir. 🚀
 
-Veri seti olarak herhangi bir e-ticaret firmasına ait ürün yorumları ve yorumların ait olduğu duygu sınıfları yer almaktadır.📝
+Veri seti olarak herhangi bir e-ticaret firmasına ait ürün yorumları ve yorumların ait olduğu duygu sınıfların yer aldığı csv dosyası kullanılmaktadır .📝
 
 Projede Kullanılan Sınıflandırma Türleri
 - 
