@@ -23,6 +23,7 @@ comments_set.head() # Veri seti kontrol edilir.
 """Veri seti incelendi.
 1: Pozitif,
 0: Negatif
+2: Nötr
 """
 
 comments_set.isnull().sum() # Veri setinde herhangi bir boşluk var mı kontrol edilir.
