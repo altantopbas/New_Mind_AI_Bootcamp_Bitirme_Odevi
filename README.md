@@ -1,3 +1,3 @@
-# New_Mind_AI_Bootcamp_Bitirme_Odevi
-Duygu Durum Analizi Sonrası LLM Üzerinden Sonuç Üretme
+# New Mind AI Bootcamp Bitirme Projesi
+## Duygu Durum Analizi Sonrası LLM Üzerinden Sonuç Üretme
 
